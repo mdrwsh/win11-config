@@ -1,0 +1,13 @@
+install winget : https://github.com/microsoft/winget-cli/releases/latest
+$ winget PowerSoftware.AnyBurn Hibbiki.Chromium Git.Git VSDC.Editor Spotify.Spotify OBSProject.OBSStudio 9N97ZCKPD60Q Rufus.Rufus 9WZDNCRFHWQT Microsoft.Teams Zoom.Zoom RARLab.WinRAR 9NK1HLWHNP8S Microsoft.Office
+
+python
+vlc
+arduino-cli
+micro editor
+autowall
+
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+pls restart
+
